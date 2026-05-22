@@ -2,7 +2,7 @@
 
 Building production AI systems for enterprise — RAG pipelines, ERP integrations, LLM agents, and observability infrastructure.
 
-> **Summer 2025 build log** — architecting an AI Financial Operations Copilot from the ground up, documenting every layer.
+> **Summer 2026 build log** — architecting an AI Financial Operations Copilot from the ground up, documenting every layer.
 
 ---
 
@@ -71,4 +71,4 @@ Every repo in this organization follows the same standards:
 
 ---
 
-*Building publicly. Last updated: May 2025.*
+*Building publicly. Last updated: May 2026.*
